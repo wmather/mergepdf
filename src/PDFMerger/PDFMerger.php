@@ -21,7 +21,7 @@
  * such as form fields, links or page annotations (anything not a part of the page content stream).
  *
  */
-namespace Clegginabox\PDFMerger;
+namespace wmather\PDFMerger;
 
 use Exception;
 use fpdi\FPDI;
