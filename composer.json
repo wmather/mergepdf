@@ -2,7 +2,7 @@
     "name": "wmather/mergepdf",
     "description": "PDF File Merger for PHP5",
     "require": {
-        "itbz/fpdi": "1.5.x"
+        "itbz/fpdi": "1.5.*"
     },
     "authors": [
         {
