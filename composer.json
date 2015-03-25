@@ -1,5 +1,5 @@
 {
-    "name": "wmather/pdf-merge",
+    "name": "wmather/mergepdf",
     "description": "PDF File Merger for PHP5",
     "require": {
         "itbz/fpdi": "dev-master"
